@@ -1,0 +1,1 @@
+Essa Aplicação foi proposta pela plataforma DIO para recriação da interface da netflix.
